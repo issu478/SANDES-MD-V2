@@ -15,6 +15,7 @@
     "jimp": "*",
     "google-tts-api": "^2.0.2",
     "pino": "^7.0.5",
+    "adm-zip": "^0.5.16",
     "node-addon-api": "^8.0.0",
     "pm2": "^5.2.0",
     "ffmpeg-static":"latest",
